@@ -1,5 +1,5 @@
 # DL-University-Course-Practicals
-Collection of 6th semester university course deep learning practicals
+Collection of 6th semester university course deep learning practicals </br>
 Practical List:
 1. Multilayer Perceptron Classifier on MNIST
 2. Keras Feed Forward Neural Network on MNIST
